@@ -19,7 +19,7 @@
 - [ ] 15장
 - [X] 16장. 리덕스 라이브러리 이해하기 :::
 - [X] 17장. 리덕스를 사용하여 리액트 어플리케이션 상태 관리하기 ::: [Redux](https://github.com/YooJinRa/study_reactjs/tree/main/react-redux-tutorial)
-- [ ] 18장
+- [X] 18장. 리덕스 미들웨를 통한 비동기 작업관리 ::: [ReduxMiddleware](https://github.com/YooJinRa/study_reactjs/tree/main/learn-redux-middleware)
 - [ ] 19장
 - [ ] 20장
 - [ ] 21장
